@@ -6,7 +6,6 @@
 
 1. Установите зависимости:
    ```bash
-   cd token-generator
    npm install
    ```
 
