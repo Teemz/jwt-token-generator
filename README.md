@@ -44,3 +44,6 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzY1MjY4MjkyLCJleHAiOjE
 
 - Node.js
 - Файл `backend/.env` с переменной `JWT_SECRET`
+
+## Автор
+- Teemz
